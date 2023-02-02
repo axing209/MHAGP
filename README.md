@@ -18,9 +18,9 @@ The code has been tested running under Python 3.7. The  required main packages a
 
 
 **Python implementation files for MHAGP**
-        1. line_embedding.py and node2vec_embedding.py are used to extract three network features.
-        2. feature_concatenate.ipynb - Jupyter notebook for concatenate the gene-disease features of the three networks extracted by line and node2vec algorithm.
-        3. attenetion_prediction.ipynb- Jupyter notebook for the gene-disease association prediction.
+      - 1. line_embedding.py and node2vec_embedding.py are used to extract three network features.
+      - 2. feature_concatenate.ipynb - Jupyter notebook for concatenate the gene-disease features of the three networks extracted by line and node2vec algorithm.
+      - 3. attenetion_prediction.ipynb- Jupyter notebook for the gene-disease association prediction.
 
 **Usage**
 
